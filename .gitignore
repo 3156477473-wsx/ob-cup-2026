@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+.env.*
+
+# 数据与产物
+data/
+*.log
+*.zip
+*.tar.gz
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node（如果后面用 Dify/前端）
+node_modules/
+dist/
+build/
